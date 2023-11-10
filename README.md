@@ -1,6 +1,6 @@
-## Hi, we are Sternenkinder e.V. 👋
+## Hi, we are the SG SternenKinder👋
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sternenkinder-e-v/count.svg" />
+  <img src="https://profile-counter.glitch.me/sg-sternenkinder/count.svg" />
 </p>
