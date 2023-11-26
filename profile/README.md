@@ -1,5 +1,6 @@
-## Hi, I'm Ostborn 👋
+## Hi, we are the SG SternenKinder👋
 
-### I've been creating this page for us Spielegemeinschaft
-
-### I ask you to support my work with a ❤️ for the benefit of all. I currently spend about half my time to creation this Webpage and the other half preparing them for.
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sg-sternenkinder/count.svg" />
+</p>
